@@ -11,3 +11,5 @@ do echo ${cards[RANDOM%${#cards[@]}]};
 
 done
 # `${cards[RANDOM%${#cards[@]}]}` command randomly selects values from `cards`
+
+#for loop iterates over value given by user
