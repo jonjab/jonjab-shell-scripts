@@ -13,4 +13,4 @@ done
 # `${cards[RANDOM%${#cards[@]}]}` command randomly selects values from `cards`
 
 #for loop iterates over value given by user
-#Kristi starting conflict HERE! 
+# Conflict is good!
